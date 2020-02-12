@@ -1,5 +1,5 @@
 /* global $ */
-
+debugger;
 console.log('hi');
 
 $('h1').click(function(){
